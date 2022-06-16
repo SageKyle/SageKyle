@@ -19,13 +19,13 @@
 ### Hi there 👋
  
 My name is **Ominyi Paul,**
-   
+
  ---
 
 ### :man_technologist: About Me :
 
 
-I am a Front-end Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria 🇳🇬.
+I am a Front-end Web 💻 from Nigeria 🇳🇬.
 I've always been fascinated by computers, how they work and technology in general and the endless possibilities and opportunities it offers ✨. &nbsp;
 I love to use computers to solve problems and make life easier for people around me. 
 
