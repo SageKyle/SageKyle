@@ -33,9 +33,9 @@ I am a Front-end Web 💻 from Nigeria 🇳🇬.
 I've always been fascinated by computers, how they work and technology in general and the endless possibilities and opportunities it offers ✨. &nbsp;
 I love to use computers to solve problems and make life easier for people around me. 
 
-- :telescope: I’m currently building a full website for a demo tech company called BackTick Technologies in order to hone my design skills. 
-- :seedling: I’m currently learning Vanilla Javascript. 
-- :zap: In my free time, I solve problems on Front-end Mentor and I love to read books,  📚 especially psychology and science 🌏.
+- :telescope: I’m currently working on a crowdfunding product page where users can make pledges to support/sponsor a product and also see the application state updated in real-time as they interact with it. The purpose of this is to hone my knowledge about state management and also to test and hopefully improve my knowledge of React as a whole.  
+- :seedling: I’m currently learning React JS. 
+- :zap: In my free time, I either solve problems on Front-end Mentor, write an article or read books,  📚 especially psychology and science-related 🌏.
 - 👯 I would love to collaborate on building projects that require the skills I already have and also challenge me to be better. 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paul-sage-ominyi-63229821a)
 
