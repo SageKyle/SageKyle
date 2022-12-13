@@ -1,25 +1,4 @@
 
-
-<!-- 
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>  
--->
-<!-- 
-<div id="badges"> 
-    <a href="https://www.linkedin.com/in/paul-sage-ominyi-63229821a" >
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="mailto:ominyipaulo@gmail.com"> 
-        <img src="https://img.shields.io/badge/email-blue?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
-    </a>
-    <a href="https://twitter.com/Ominyi_Sage?t=JRB5xHc9MMDaTjwZfbQn7Q&s=09">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> 
-    </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=SageKyle&style=flat-square&color=blue" alt=""/>
- -->
- 
 ### Hi there 👋
  
 My name is **Ominyi Paul,**
@@ -29,14 +8,14 @@ My name is **Ominyi Paul,**
 ### :man_technologist: About Me :
 
 
-I am a Front-end Web 💻 from Nigeria 🇳🇬.
+I am a Front-end Web 💻 from Nigeria.
 I've always been fascinated by computers, how they work and technology in general and the endless possibilities and opportunities it offers ✨. &nbsp;
 I love to use computers to solve problems and make life easier for people around me. 
 
 - :telescope: I’m currently working on a crowdfunding product page where users can make pledges to support/sponsor a product and also see the application state updated in real-time as they interact with it. The purpose of this is to hone my knowledge about state management and also to test and hopefully improve my knowledge of React as a whole.  
-- :seedling: I’m currently learning React JS. 
+- :seedling: I recently started technical writing ([you can check it out here](https://saje.hashnode.dev)), and it has been an interesting journey so far. It has provided a way for me to gain an in-depth knowledge on any topic I'm writing about.
 - :zap: In my free time, I either solve problems on Front-end Mentor, write an article or read books,  📚 especially psychology and science-related 🌏.
-- 👯 I would love to collaborate on building projects that require the skills I already have and also challenge me to be better. 
+- 👯 I would love to collaborate on building projects that require the skills I already know and also challenge me to learn more and be better. 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paul-sage-ominyi-63229821a)
 
 --- 
