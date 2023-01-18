@@ -40,4 +40,6 @@ I love to use computers to solve problems and make life easier for people around
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SageKyle&theme=dark&background=000000)](https://git.io/streak-stats)
 
+<!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SageKyle&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+ -->
