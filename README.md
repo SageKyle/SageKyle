@@ -13,7 +13,7 @@ I've always been fascinated by computers, how they work and technology in genera
 I love to use computers to solve problems and make life easier for people around me. 
 
 - :telescope: I’m currently learning Tailwind CSS and also building a unique task tracker/notes app with React, Firebase and Tailwind CSS. 
-- :seedling: I recently started technical writing ([you can check it out here](https://saje.hashnode.dev)), and it has been an interesting journey so far. It has provided a way for me to gain an in-depth knowledge on any topic I'm writing about.
+- :seedling: I've been writing articles on web development ([you can check it out here](https://saje.hashnode.dev)), and it has been an interesting journey so far. It has provided a way for me to gain an in-depth knowledge on any topic I'm writing about.
 - :zap: In my free time, I either solve problems on Front-end Mentor, write an article or read books,  📚 especially psychology and science-related 🌏.
 - 👯 I would love to collaborate on building projects that require the skills I already know and also challenge me to learn more and be better. 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paul-sage-ominyi-63229821a)
