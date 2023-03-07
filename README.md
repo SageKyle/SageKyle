@@ -1,18 +1,18 @@
 
 ### Hi there 👋
  
-My name is **Ominyi Paul,**
+My name is **Ominyi Paul,** but you can call me **Saje**
 
  ---
 
 ### :man_technologist: About Me :
 
 
-I am a Front-end Web 💻 from Nigeria.
-I've always been fascinated by computers, how they work and technology in general and the endless possibilities and opportunities it offers ✨. &nbsp;
+I am a Frontend Web developer 💻 from Nigeria.
+I've always been fascinated about computers, how they work and technology in general and the endless possibilities and opportunities they offer ✨. &nbsp;
 I love to use computers to solve problems and make life easier for people around me. 
 
-- :telescope: I’m currently learning Tailwind CSS and also building a unique task tracker/notes app with React, Firebase and Tailwind CSS. 
+- :telescope: I’m currently building a unique todo/notes app which works offline and also has a speech recognition feature for recording notes.
 - :seedling: I've been writing articles on web development ([you can check it out here](https://saje.hashnode.dev)), and it has been an interesting journey so far. It has provided a way for me to gain an in-depth knowledge on any topic I'm writing about.
 - :zap: In my free time, I either solve problems on Front-end Mentor, write an article or read books,  📚 especially psychology and science-related 🌏.
 - 👯 I would love to collaborate on building projects that require the skills I already know and also challenge me to learn more and be better. 
@@ -40,6 +40,6 @@ I love to use computers to solve problems and make life easier for people around
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SageKyle&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
+<!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SageKyle&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+ -->
