@@ -9,14 +9,16 @@ My name is **Ominyi Paul,** but you can call me **Saje**
 
 
 I am a Frontend Web developer 💻 from Nigeria.
-I've always been fascinated about computers, how they work and technology in general and the endless possibilities and opportunities they offer ✨. &nbsp;
-I love to use computers to solve problems and make life easier for people around me. 
+I've always been fascinated by computers, how they work and technology in general, and the endless possibilities and opportunities they offer ✨. &nbsp;
+I love to use computers to solve problems and make life easier for people around me.
 
-- :telescope: I’m currently building a unique todo/notes app which works offline and also has a speech recognition feature for recording notes.
-- :seedling: I've been writing articles on web development ([you can check it out here](https://saje.hashnode.dev)), and it has been an interesting journey so far. It has provided a way for me to gain an in-depth knowledge on any topic I'm writing about.
-- :zap: In my free time, I either solve problems on Front-end Mentor, write an article or read books,  📚 especially psychology and science-related 🌏.
-- 👯 I would love to collaborate on building projects that require the skills I already know and also challenge me to learn more and be better. 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/paul-sage-ominyi-63229821a)
+- :telescope: I’m currently building a unique to-do/notes app that works offline and also has a speech recognition feature for recording notes.
+- :seedling: I've been writing articles on web development ([you can check it out here](https://saje.hashnode.dev)), and it has been an interesting journey so far. It has provided a way for me to gain more in-depth knowledge on any topic I'm writing about.
+- :zap: In my free time, I love to read technical articles, play around with trending or arcane concepts in web development, write an article, or read books,  📚 especially psychology and science-related 🌏.
+- 👯 I would love to collaborate on building projects that require the skills I already know and challenge me to learn more and improve. 
+- :mailbox: How to reach me:
+  - LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ominyi)
+  - 📧 [Send me a mail](mailto:ominyi.webdev@gmail.com)
 
 --- 
 
